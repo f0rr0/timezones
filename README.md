@@ -1,1 +1,1 @@
-## Timezone strings with moment compatible offsets
+## Timezone strings with moment compatible offsets (ZZ)
